@@ -1,0 +1,7 @@
+public class Substraction{
+ public static void main(String [] args){
+ int a = 100;
+ int b = 50:
+ system.out.println(a-b);
+ }
+ }
